@@ -1,3 +1,4 @@
+-- COMPARE WINDOWS FUNCTION AND RANKINGS--
 SELECT
 restaurant_name,
 city,
