@@ -46,8 +46,11 @@ Table Booking
 
 **Technologies Used**
 a) MySQL
+
 b) Excel
+
 c) Power BI
+
 d) GitHub
 
 ## Power BI Dashboards
